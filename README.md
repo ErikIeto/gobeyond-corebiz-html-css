@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ##  Projeto
 
-Criando um Rodapé para desktop💻 e mobile📱.
+Criar um Rodapé para desktop💻 e mobile📱.
 
 Projeto responsavél pela <a href="https://www.corebiz.ag/en/" target="_blank">Corebiz</a> desenvolvido no dia 12/01/2021 durante a edição do <a href="https://conteudo.corebiz.ag/gobeyond" target="_blank">GoBeyond</a>.
 
