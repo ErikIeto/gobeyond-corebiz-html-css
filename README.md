@@ -17,7 +17,6 @@
 <br>
 
 <p align="center">
-  <img alt="GoBeyond-desktop" src="github/MacBook.png" width="100%">
     <img alt="GoBeyond-mobile" src="github/iphoneX.png" width="50%">
 </p>
 
